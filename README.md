@@ -1,9 +1,6 @@
 System Overview:
 
-      The current system faces challenges in managing student's placement records efficiently. 
-      This results in inconvenience due to unorganized data. 
-      To streamline this process, a centralized forum is needed for students to upload their internship.
-      And job offer letters, ensuring easy access and management of placement records.
+      The current system faces challenges in managing student's placement records efficiently. This results in inconvenience due to unorganized data.To streamline this process, a centralized forum is needed for students to upload their internship and job offer letters, ensuring easy access and management of placement records.
 
      
       ● Inconsistent Record-Keeping: 
